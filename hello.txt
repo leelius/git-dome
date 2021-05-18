@@ -2,3 +2,4 @@ welcome julius to use Git! 222
 welcome julius to use Git! 333333
 welcome julius to use Git! 444
 welcome julius to use Git! hot-fix555
+pull test --remote
